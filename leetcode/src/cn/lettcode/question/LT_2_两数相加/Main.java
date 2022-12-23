@@ -1,4 +1,4 @@
-package cn.lettcode.LT_2_两数相加;
+package cn.lettcode.question.LT_2_两数相加;
 
 import java.util.ArrayList;
 import java.util.List;

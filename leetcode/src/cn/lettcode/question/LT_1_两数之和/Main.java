@@ -1,4 +1,4 @@
-package cn.lettcode.LT_1_两数之和;
+package cn.lettcode.question.LT_1_两数之和;
 
 import java.util.Arrays;
 import java.util.HashMap;
